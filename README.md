@@ -19,6 +19,19 @@ A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [O
 - 📱 **Installable PWA** — add to home screen on iOS or Android
 - ✈️ **Offline-ready** — app shell loads without internet
 
+## Help Needed
+
+As seen in the compatibility chart below, OpenSkies7 currently struggles on older versions of iOS Safari and is untested for most platforms.
+If you are a fan of retro-tech or have access to older mobile hardware, please fork this repo and improve it:
+
+Legacy Debugging: Investigate why the Open-Meteo API requests fail on older OS versions (likely due to lack of fetch or HTTPS certificate issues).
+
+Compatibility Patches: Implement polyfills or CSS fallbacks for older browser engines that don't support modern layout properties like backdrop-filter or flexbox.
+
+Testing: Verifying performance on the "Untested" platforms listed below.
+
+**Feel free to fork this repository, and fix and improve this!**
+
 ## Compatibility
 
 | Platform | Version | Notes |
@@ -27,12 +40,13 @@ A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [O
 | iOS Safari | 9-10 | Untested. Likely barely works or broken. Also, if it works or not, let me know. |
 | iOS Safari | 11-12 | Barely working. |
 | iOS Safari | 13-15 | Untested |
-| iOS Safari | 16+ | Most Likely working. |
+| iOS Safari | 16+ | Most likely working. |
 | Android Chrome | 5.1- | Untested - let me know if it does. May work with updated versions. Likely broken? |
 | Android Chrome | 6.0+ | Untested - let me know if it does. May work with updated versions. |
 | Modern browsers | Modern versions | Works, I mean obviously. |
 
 > Written in **ES5-compatible vanilla JS** — no build tools, no bundler, no Node.js required. A single `index.html` runs the whole app.
+
 
 ## Deploying your own version
 
