@@ -1,8 +1,9 @@
-# 🌤 Weather App
+# 🌤 OpenSkies7
+
+[insert link future me]
 
 A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [Open-Meteo API](https://open-meteo.com/). No API key required.
 
-![Weather App Preview](preview.png)
 
 ## Features
 
@@ -22,11 +23,9 @@ A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [O
 
 | Platform | Version | Notes |
 |---|---|---|
-| iOS Safari | 7+ | Full support |
-| iPad Mini 1 | iOS 5–9 | Full support |
-| iPad Mini 2 | iOS 7–12 | Full support |
-| Android Chrome | 4.4+ | Full support |
-| Modern browsers | All | Full support |
+| iOS Safari | 7+ | untested - let me know if it does. |
+| Android Chrome | 4.4+ | untested - let me know if it does. |
+| Modern browsers | All | Works, I mean obviously. |
 
 > Written in **ES5-compatible vanilla JS** — no build tools, no bundler, no Node.js required. A single `index.html` runs the whole app.
 
