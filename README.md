@@ -28,7 +28,7 @@ A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [O
 | iOS Safari | 11-12 | Barely working. |
 | iOS Safari | 13-15 | Untested |
 | iOS Safari | 16+ | Most Likely working. |
-| Android Chrome | 5.1+ | Untested - let me know if it does. May work with updated versions. Likely broken? |
+| Android Chrome | 5.1- | Untested - let me know if it does. May work with updated versions. Likely broken? |
 | Android Chrome | 6.0+ | Untested - let me know if it does. May work with updated versions. |
 | Modern browsers | Modern versions | Works, I mean obviously. |
 
