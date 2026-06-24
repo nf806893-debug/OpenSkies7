@@ -1,6 +1,6 @@
 # 🌤 OpenSkies7
 
-[insert link future me]
+[OpenSkies7 here](https://nf806893-debug.github.io/OpenSkies7/)
 
 A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [Open-Meteo API](https://open-meteo.com/). No API key required.
 
@@ -23,13 +23,18 @@ A clean, iOS 7-inspired weather Progressive Web App (PWA) powered by the free [O
 
 | Platform | Version | Notes |
 |---|---|---|
-| iOS Safari | 7+ | untested - let me know if it does. |
-| Android Chrome | 4.4+ | untested - let me know if it does. |
-| Modern browsers | All | Works, I mean obviously. |
+| iOS Safari | 8- | Broken. I dont know if I'll ever fix it. |
+| iOS Safari | 9-10 | Untested. Likely barely works or broken. Also, if it works or not, let me know. |
+| iOS Safari | 11-12 | Barely working. |
+| iOS Safari | 13-15 | Untested |
+| iOS Safari | 16+ | Most Likely working. |
+| Android Chrome | 5.1+ | Untested - let me know if it does. May work with updated versions. Likely broken? |
+| Android Chrome | 6.0+ | Untested - let me know if it does. May work with updated versions. |
+| Modern browsers | Modern versions | Works, I mean obviously. |
 
 > Written in **ES5-compatible vanilla JS** — no build tools, no bundler, no Node.js required. A single `index.html` runs the whole app.
 
-## Getting Started
+## Deploying your own version
 
 ### Option 1 — Just open the file
 
