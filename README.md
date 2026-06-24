@@ -80,7 +80,7 @@ npx serve .
 ## File Structure
 
 ```
-weather-app/
+OpenSkies7-master
 ├── index.html          # Entire app — HTML, CSS, and JS in one file
 ├── manifest.json       # PWA manifest (icons, name, theme)
 ├── sw.js               # Service worker (offline caching)
